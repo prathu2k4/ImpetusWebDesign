@@ -28,8 +28,8 @@ npm -v
 Clone the repository or download the project.
 
 ```bash
-git clone https://github.com/prathu2k4/ImpetusWebDesign.git
-cd ImpetusWebDesign
+git clone https://github.com/prathu2k4/design_disaster_Order_Oops.git
+cd design_disaster_Order_Oops
 ```
 
 Install dependencies:
