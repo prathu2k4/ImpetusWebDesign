@@ -28,8 +28,8 @@ npm -v
 Clone the repository or download the project.
 
 ```bash
-git clone https://github.com/yourusername/chaos-kitchen.git
-cd chaos-kitchen
+git clone https://github.com/prathu2k4/ImpetusWebDesign.git
+cd ImpetusWebDesign
 ```
 
 Install dependencies:
@@ -73,7 +73,7 @@ Open the link in your browser to use the application.
 # Project Structure
 
 ```
-chaos-kitchen/
+ImpetusWebDesign/
 │
 ├── public/
 │
